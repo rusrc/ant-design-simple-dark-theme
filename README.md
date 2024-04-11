@@ -7,8 +7,14 @@
 
 ![image](https://github.com/rusrc/ant-design-simple-dark-theme/assets/10850647/939b31c7-c042-4a79-9981-fc080d6515e0)
 
-In code could be foind as `secondTheme`
-``` json
+
+## Default theme
+
+![image](https://github.com/rusrc/ant-design-simple-dark-theme/assets/10850647/9083b18e-0ec3-490c-92a3-9cceaa056a13)
+
+In code could be found as `secondTheme`
+
+```JSON
 {
   token: {
     colorPrimary: "#e20040",
@@ -35,8 +41,3 @@ In code could be foind as `secondTheme`
   },
 }
 ```
-
-## Default theme
-
-![image](https://github.com/rusrc/ant-design-simple-dark-theme/assets/10850647/9083b18e-0ec3-490c-92a3-9cceaa056a13)
-
